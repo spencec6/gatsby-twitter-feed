@@ -1,0 +1,4417 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1520012089960,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "274c8dd2cf3ef6839c3039c2f8d03a76",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6a5356f9f42b82f9db465965822f8d1c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "031e88f26fe2c14a17c7604bd1f81152",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f69f2d1cb04cb0cb9d170c5320e90e5d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a6942c70d8607e087f5e83d7b9e27c42",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2105244c8a51fdfb21bdaad2456be967",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4dbed49fac8695ffbd7f5dfc10ed93c5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c2d3e00cc71932502c23e2d0cfbcf0d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-emotion": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-plugin-emotion",
+      "id": "Plugin gatsby-plugin-emotion",
+      "name": "gatsby-plugin-emotion",
+      "version": "1.1.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyBabelrc"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "1.1.12",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "emotion",
+            "version": "7 || 8 "
+          },
+          {
+            "name": "emotion-server",
+            "version": "7 || 8"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6c17ea3500d14b89bb5b526d9e031f7d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-twitter": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-source-twitter",
+      "id": "Plugin gatsby-source-twitter",
+      "name": "gatsby-source-twitter",
+      "version": "1.3.3",
+      "pluginOptions": {
+        "plugins": [],
+        "q": "from:teachingcom",
+        "credentials": {
+          "consumer_key": "Xx7zkqti5SxlAreQWOnw9UPYV",
+          "consumer_secret": "Ukx25jzOwlX48yY6qMvRLIFvmiA3HqBHW38n66pHVL2PFaAwEh",
+          "bearer_token": "AAAAAAAAAAAAAAAAAAAAAKtw4gAAAAAAd%2FdtPG6d0CM07H1jfpGLgtB70iI%3DjnKloE6iXnfmn3kAsE6epm3Bbh6hyOzHvHJ8OcgvoYYR6btVCm"
+        },
+        "tweet_mode": "extended"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/node_modules/gatsby-source-twitter",
+      "packageJson": {
+        "name": "gatsby-source-twitter",
+        "description": "Fetch data from Twitter API",
+        "version": "1.3.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsbyjs",
+          "twitter"
+        ],
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "co",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "twitter",
+            "version": "^1.7.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "jest",
+            "version": "^21.2.1"
+          },
+          {
+            "name": "mockery",
+            "version": "^2.1.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "graphql",
+            "version": "^0.10.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b904fd75b2c69a374e8b6f11ff1c91cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "1470894b89f48c4826169163988b88bb",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "emotion",
+            "version": "^9.0.2"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^9.0.2"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.207"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.37"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^1.1.12"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-twitter",
+            "version": "^1.3.3"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^9.0.2"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8145ecd01780974fe57c9dbf113103cc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-03-02T17:34:47.018Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a45283a06aad1fce9019756ddeb72cbe",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7fd8a5200c6336c48016040ff648053a": {
+      "created_at": "Fri Mar 02 00:57:03 +0000 2018",
+      "id": "7fd8a5200c6336c48016040ff648053a",
+      "id_str": "969376001724645376",
+      "full_text": "Stanford research: attitude matters as much as IQ in kids' success @entrylevelrebel https://t.co/AzocLjvbdX via @Inc https://t.co/QEwVSglP2L",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EntryLevelRebel",
+            "name": "Jessica Stillman",
+            "id": 57682960,
+            "id_str": "57682960",
+            "indices": [
+              67,
+              83
+            ]
+          },
+          {
+            "screen_name": "Inc",
+            "name": "Inc.",
+            "id": 16896485,
+            "id_str": "16896485",
+            "indices": [
+              112,
+              116
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AzocLjvbdX",
+            "expanded_url": "https://buff.ly/2ET2NaG",
+            "display_url": "buff.ly/2ET2NaG",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 969375998830628900,
+            "id_str": "969375998830628864",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXPqVcAW0AAgD2U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXPqVcAW0AAgD2U.jpg",
+            "url": "https://t.co/QEwVSglP2L",
+            "display_url": "pic.twitter.com/QEwVSglP2L",
+            "expanded_url": "https://twitter.com/TeachingCom/status/969376001724645376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 970,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 970,
+                "h": 450,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 969375998830628900,
+            "id_str": "969375998830628864",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXPqVcAW0AAgD2U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXPqVcAW0AAgD2U.jpg",
+            "url": "https://t.co/QEwVSglP2L",
+            "display_url": "pic.twitter.com/QEwVSglP2L",
+            "expanded_url": "https://twitter.com/TeachingCom/status/969376001724645376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 970,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 970,
+                "h": 450,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "68750c72aa4d35d76e358fb26be2b0a0",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "8bff27621e4dfb78a76940068a65055d": {
+      "created_at": "Fri Mar 02 00:34:32 +0000 2018",
+      "id": "8bff27621e4dfb78a76940068a65055d",
+      "id_str": "969370335438168069",
+      "full_text": "@drrodberger - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "drrodberger",
+            "name": "Rod Berger PsyD",
+            "id": 243319037,
+            "id_str": "243319037",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              75,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 243319037,
+      "in_reply_to_user_id_str": "243319037",
+      "in_reply_to_screen_name": "drrodberger",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "872eaa3fbc8ea5fa2f57517adbfa95f9",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "defa3b117d34c54604ce106592d9685e": {
+      "created_at": "Wed Feb 28 21:39:06 +0000 2018",
+      "id": "defa3b117d34c54604ce106592d9685e",
+      "id_str": "968963797598826496",
+      "full_text": "@cecilia_bocking - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        123
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cecilia_bocking",
+            "name": "cecilia böcking",
+            "id": 1712716986,
+            "id_str": "1712716986",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1712716986,
+      "in_reply_to_user_id_str": "1712716986",
+      "in_reply_to_screen_name": "cecilia_bocking",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "b295b60026e0a42db9cf984b6ce97b44",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "52d8eb07860d0a14c4bbbf5641315cf7": {
+      "created_at": "Wed Feb 28 20:42:02 +0000 2018",
+      "id": "52d8eb07860d0a14c4bbbf5641315cf7",
+      "id_str": "968949436389961728",
+      "full_text": "\"Elementary School Homework Probably Isn’t Good for Kids\" \nWhat are your thoughts? via.. @FatherlyHQ #teaching #homework #learning\nhttps://t.co/zgOPbvBJKs https://t.co/qARpLzg1Fv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "teaching",
+            "indices": [
+              101,
+              110
+            ]
+          },
+          {
+            "text": "homework",
+            "indices": [
+              111,
+              120
+            ]
+          },
+          {
+            "text": "learning",
+            "indices": [
+              121,
+              130
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FatherlyHQ",
+            "name": "Fatherly",
+            "id": 2473821354,
+            "id_str": "2473821354",
+            "indices": [
+              89,
+              100
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zgOPbvBJKs",
+            "expanded_url": "https://buff.ly/2ElqCV5",
+            "display_url": "buff.ly/2ElqCV5",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 968949434410139600,
+            "id_str": "968949434410139648",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXJmYHtVAAAQbIt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXJmYHtVAAAQbIt.jpg",
+            "url": "https://t.co/qARpLzg1Fv",
+            "display_url": "pic.twitter.com/qARpLzg1Fv",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968949436389961728/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 726,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 968949434410139600,
+            "id_str": "968949434410139648",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXJmYHtVAAAQbIt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DXJmYHtVAAAQbIt.jpg",
+            "url": "https://t.co/qARpLzg1Fv",
+            "display_url": "pic.twitter.com/qARpLzg1Fv",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968949436389961728/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 726,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "044b19618ebaf36e4bd800d301149a25",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "83cdc96ab4c31cb75e6fb768a5101b64": {
+      "created_at": "Wed Feb 28 19:18:28 +0000 2018",
+      "id": "83cdc96ab4c31cb75e6fb768a5101b64",
+      "id_str": "968928407655473152",
+      "full_text": "@LPFI - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LPFI",
+            "name": "Level Playing Field",
+            "id": 30035205,
+            "id_str": "30035205",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              68,
+              81
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 30035205,
+      "in_reply_to_user_id_str": "30035205",
+      "in_reply_to_screen_name": "LPFI",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "22a939566a015bd53258e05b2126ab03",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "25b17143a09d1d1dfcf9072605646948": {
+      "created_at": "Wed Feb 28 12:43:27 +0000 2018",
+      "id": "25b17143a09d1d1dfcf9072605646948",
+      "id_str": "968828997613350917",
+      "full_text": "This 3-Second Change Could Have a Huge Impact on Your Students’ Learning https://t.co/Ke1bWOAMAl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        96
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ke1bWOAMAl",
+            "expanded_url": "http://zpr.io/nxpnj",
+            "display_url": "zpr.io/nxpnj",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "33f7b21762ca476663b0e9c853b38e51",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "ac3ea7e72651ec1ba2dde3c32c6fdb6d": {
+      "created_at": "Tue Feb 27 13:50:01 +0000 2018",
+      "id": "ac3ea7e72651ec1ba2dde3c32c6fdb6d",
+      "id_str": "968483362544418816",
+      "full_text": "How to Teach Students Public Speaking Skills #presenting #confidence #teaching\nhttps://t.co/2tYpYM2Cvm https://t.co/A9xFfJR5nh",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "presenting",
+            "indices": [
+              45,
+              56
+            ]
+          },
+          {
+            "text": "confidence",
+            "indices": [
+              57,
+              68
+            ]
+          },
+          {
+            "text": "teaching",
+            "indices": [
+              69,
+              78
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2tYpYM2Cvm",
+            "expanded_url": "https://buff.ly/2se1T3x",
+            "display_url": "buff.ly/2se1T3x",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 968483359683784700,
+            "id_str": "968483359683784704",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXC-fADUMAAhVzq.png",
+            "media_url_https": "https://pbs.twimg.com/media/DXC-fADUMAAhVzq.png",
+            "url": "https://t.co/A9xFfJR5nh",
+            "display_url": "pic.twitter.com/A9xFfJR5nh",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968483362544418816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 968483359683784700,
+            "id_str": "968483359683784704",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/DXC-fADUMAAhVzq.png",
+            "media_url_https": "https://pbs.twimg.com/media/DXC-fADUMAAhVzq.png",
+            "url": "https://t.co/A9xFfJR5nh",
+            "display_url": "pic.twitter.com/A9xFfJR5nh",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968483362544418816/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "b9ad3be85eea337f32738de778538382",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "0d91eb2aef40dbd8cf84c44cb12ad0d8": {
+      "created_at": "Mon Feb 26 20:42:01 +0000 2018",
+      "id": "0d91eb2aef40dbd8cf84c44cb12ad0d8",
+      "id_str": "968224656217034752",
+      "full_text": "How to make a change - 4 Steps to Driving a Successful Digital Transformation @techedvocate #futureready #classroom #change https://t.co/wI4tSR7TAE https://t.co/pVVEiu44Fq",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "futureready",
+            "indices": [
+              92,
+              104
+            ]
+          },
+          {
+            "text": "classroom",
+            "indices": [
+              105,
+              115
+            ]
+          },
+          {
+            "text": "change",
+            "indices": [
+              116,
+              123
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "techedvocate",
+            "name": "thetechedvocate",
+            "id": 2841962009,
+            "id_str": "2841962009",
+            "indices": [
+              78,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wI4tSR7TAE",
+            "expanded_url": "https://buff.ly/2GRB0FE",
+            "display_url": "buff.ly/2GRB0FE",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 968224654597894100,
+            "id_str": "968224654597894144",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/DW_TMYgVMAAWOEQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DW_TMYgVMAAWOEQ.jpg",
+            "url": "https://t.co/pVVEiu44Fq",
+            "display_url": "pic.twitter.com/pVVEiu44Fq",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968224656217034752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 968224654597894100,
+            "id_str": "968224654597894144",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/media/DW_TMYgVMAAWOEQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DW_TMYgVMAAWOEQ.jpg",
+            "url": "https://t.co/pVVEiu44Fq",
+            "display_url": "pic.twitter.com/pVVEiu44Fq",
+            "expanded_url": "https://twitter.com/TeachingCom/status/968224656217034752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 660,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "65aefc34ba3fa74affbd79dfb6ccc445",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "502efb070b8a750c6d08add4b0ec3a9e": {
+      "created_at": "Mon Feb 26 15:45:50 +0000 2018",
+      "id": "502efb070b8a750c6d08add4b0ec3a9e",
+      "id_str": "968150119907512320",
+      "full_text": "RT @EduTypingCom: Does It Matter How You Type? https://t.co/zERNJ007jF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zERNJ007jF",
+            "expanded_url": "http://blog.edutyping.com/ask-edutyping/does-it-matter-how-you-type/",
+            "display_url": "blog.edutyping.com/ask-edutyping/…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Feb 26 15:11:36 +0000 2018",
+        "id": 968141502445649900,
+        "id_str": "968141502445649920",
+        "full_text": "Does It Matter How You Type? https://t.co/zERNJ007jF",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          52
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/zERNJ007jF",
+              "expanded_url": "http://blog.edutyping.com/ask-edutyping/does-it-matter-how-you-type/",
+              "display_url": "blog.edutyping.com/ask-edutyping/…",
+              "indices": [
+                29,
+                52
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 841854217547468800,
+          "id_str": "841854217547468800",
+          "name": "EduTyping.com",
+          "screen_name": "EduTypingCom",
+          "location": "",
+          "description": "Comprehensive customized K-12 #keyboarding curriculum! Used by thousands of #schools nationwide, Elementary, Middle and High School #teched #typing #STEM",
+          "url": "https://t.co/zQsheRUk21",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/zQsheRUk21",
+                  "expanded_url": "https://www.edutyping.com/",
+                  "display_url": "edutyping.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 277,
+          "friends_count": 1045,
+          "listed_count": 2,
+          "created_at": "Wed Mar 15 03:31:01 +0000 2017",
+          "favourites_count": 522,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 957,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/907675808952598528/ozBQX2CU_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/907675808952598528/ozBQX2CU_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/841854217547468800/1505486622",
+          "profile_link_color": "00AFD1",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "e384b4dc7f5ea2c33eca426e757ebe5d",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "0a52fd73b0561d197689f08d95afec16": {
+      "created_at": "Mon Feb 26 15:45:40 +0000 2018",
+      "id": "0a52fd73b0561d197689f08d95afec16",
+      "id_str": "968150077561802752",
+      "full_text": "@gnhalifax Hi Matthew, it will be in USD",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gnhalifax",
+            "name": "Matthew Cain",
+            "id": 178330274,
+            "id_str": "178330274",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 968136341358817300,
+      "in_reply_to_status_id_str": "968136341358817280",
+      "in_reply_to_user_id": 178330274,
+      "in_reply_to_user_id_str": "178330274",
+      "in_reply_to_screen_name": "gnhalifax",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "cd80c41f162256a1d5b13e55349bb2db",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "23c7d1407b7cb392adb7c5f18fdd2507": {
+      "created_at": "Sun Feb 25 21:23:02 +0000 2018",
+      "id": "23c7d1407b7cb392adb7c5f18fdd2507",
+      "id_str": "967872589686366208",
+      "full_text": "@DrHassanRashidi - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        123
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DrHassanRashidi",
+            "name": "Dr. Hassan Rashidi",
+            "id": 3096292230,
+            "id_str": "3096292230",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3096292230,
+      "in_reply_to_user_id_str": "3096292230",
+      "in_reply_to_screen_name": "DrHassanRashidi",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "6daa60ac75ab820cb2391157f4405316",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "ab3467334274c4aeb121251c5e422787": {
+      "created_at": "Sun Feb 25 20:42:03 +0000 2018",
+      "id": "ab3467334274c4aeb121251c5e422787",
+      "id_str": "967862278098948102",
+      "full_text": "What's Going on Inside the Brain Of A Curious Child? via @MindShiftKQED #teaching #learning #curiosity https://t.co/UFcKANcEVD https://t.co/xA08wYUnaS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "teaching",
+            "indices": [
+              72,
+              81
+            ]
+          },
+          {
+            "text": "learning",
+            "indices": [
+              82,
+              91
+            ]
+          },
+          {
+            "text": "curiosity",
+            "indices": [
+              92,
+              102
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MindShiftKQED",
+            "name": "MindShift",
+            "id": 179248364,
+            "id_str": "179248364",
+            "indices": [
+              57,
+              71
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UFcKANcEVD",
+            "expanded_url": "https://buff.ly/2GhoQEX",
+            "display_url": "buff.ly/2GhoQEX",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 967862274949091300,
+            "id_str": "967862274949091330",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DW6JnHHXkAIm9Qy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DW6JnHHXkAIm9Qy.jpg",
+            "url": "https://t.co/xA08wYUnaS",
+            "display_url": "pic.twitter.com/xA08wYUnaS",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967862278098948102/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 794,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1440,
+                "h": 953,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 967862274949091300,
+            "id_str": "967862274949091330",
+            "indices": [
+              127,
+              150
+            ],
+            "media_url": "http://pbs.twimg.com/media/DW6JnHHXkAIm9Qy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DW6JnHHXkAIm9Qy.jpg",
+            "url": "https://t.co/xA08wYUnaS",
+            "display_url": "pic.twitter.com/xA08wYUnaS",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967862278098948102/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 794,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1440,
+                "h": 953,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "deb8b8fdfd5807636da4cac34c95c575",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "23f105410a5ff2373f53393ad4bf553f": {
+      "created_at": "Sat Feb 24 14:10:04 +0000 2018",
+      "id": "23f105410a5ff2373f53393ad4bf553f",
+      "id_str": "967401242233397248",
+      "full_text": "No matter what work-from-home career you take you can bet it will require touch #typing. Using @Typing_com will help to improve your accuracy and efficiency helping you complete your job effectively! #remotework #skills\n\nhttps://t.co/R4dX48XhKQ https://t.co/jxnZYRvZOW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "typing",
+            "indices": [
+              80,
+              87
+            ]
+          },
+          {
+            "text": "remotework",
+            "indices": [
+              200,
+              211
+            ]
+          },
+          {
+            "text": "skills",
+            "indices": [
+              212,
+              219
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Typing_com",
+            "name": "Typing.com",
+            "id": 16531629,
+            "id_str": "16531629",
+            "indices": [
+              95,
+              106
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R4dX48XhKQ",
+            "expanded_url": "https://buff.ly/2GVMHv5",
+            "display_url": "buff.ly/2GVMHv5",
+            "indices": [
+              221,
+              244
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 967401239611887600,
+            "id_str": "967401239611887616",
+            "indices": [
+              245,
+              268
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWzmTUpW0AAz-UR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWzmTUpW0AAz-UR.jpg",
+            "url": "https://t.co/jxnZYRvZOW",
+            "display_url": "pic.twitter.com/jxnZYRvZOW",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967401242233397248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 967401239611887600,
+            "id_str": "967401239611887616",
+            "indices": [
+              245,
+              268
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWzmTUpW0AAz-UR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWzmTUpW0AAz-UR.jpg",
+            "url": "https://t.co/jxnZYRvZOW",
+            "display_url": "pic.twitter.com/jxnZYRvZOW",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967401242233397248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1080,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "33dbb5f9d46404013b32ed68d4978f24",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "29aee1843d189732f3e8d31652715268": {
+      "created_at": "Fri Feb 23 13:51:02 +0000 2018",
+      "id": "29aee1843d189732f3e8d31652715268",
+      "id_str": "967034065009434625",
+      "full_text": "FREE Teaching Guide! Have your students mastered this critical skill? #edtech #teaching \nhttps://t.co/7YVECpn4sh https://t.co/lbahE5Q2CH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "edtech",
+            "indices": [
+              70,
+              77
+            ]
+          },
+          {
+            "text": "teaching",
+            "indices": [
+              78,
+              87
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7YVECpn4sh",
+            "expanded_url": "https://buff.ly/2EM6HzT",
+            "display_url": "buff.ly/2EM6HzT",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 967034062526468100,
+            "id_str": "967034062526468096",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWuYWzaX0AAZrVj.png",
+            "media_url_https": "https://pbs.twimg.com/media/DWuYWzaX0AAZrVj.png",
+            "url": "https://t.co/lbahE5Q2CH",
+            "display_url": "pic.twitter.com/lbahE5Q2CH",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967034065009434625/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 967034062526468100,
+            "id_str": "967034062526468096",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWuYWzaX0AAZrVj.png",
+            "media_url_https": "https://pbs.twimg.com/media/DWuYWzaX0AAZrVj.png",
+            "url": "https://t.co/lbahE5Q2CH",
+            "display_url": "pic.twitter.com/lbahE5Q2CH",
+            "expanded_url": "https://twitter.com/TeachingCom/status/967034065009434625/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 773,
+                "h": 435,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "8fe5ef718d8ce1fd0762b2df5d789db0",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "814cb650d59bfee53da295007228f000": {
+      "created_at": "Thu Feb 22 13:47:13 +0000 2018",
+      "id": "814cb650d59bfee53da295007228f000",
+      "id_str": "966670715272429569",
+      "full_text": "Get your Typing Recap Right Here! #teachingresources #typing #typingpractice\nhttps://t.co/Vk4tfU6VVg https://t.co/SO1LOwAShU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "teachingresources",
+            "indices": [
+              34,
+              52
+            ]
+          },
+          {
+            "text": "typing",
+            "indices": [
+              53,
+              60
+            ]
+          },
+          {
+            "text": "typingpractice",
+            "indices": [
+              61,
+              76
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Vk4tfU6VVg",
+            "expanded_url": "https://buff.ly/2ELmGho",
+            "display_url": "buff.ly/2ELmGho",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 966670713129234400,
+            "id_str": "966670713129234432",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWpN5FbXcAASqrE.png",
+            "media_url_https": "https://pbs.twimg.com/media/DWpN5FbXcAASqrE.png",
+            "url": "https://t.co/SO1LOwAShU",
+            "display_url": "pic.twitter.com/SO1LOwAShU",
+            "expanded_url": "https://twitter.com/TeachingCom/status/966670715272429569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 966670713129234400,
+            "id_str": "966670713129234432",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWpN5FbXcAASqrE.png",
+            "media_url_https": "https://pbs.twimg.com/media/DWpN5FbXcAASqrE.png",
+            "url": "https://t.co/SO1LOwAShU",
+            "display_url": "pic.twitter.com/SO1LOwAShU",
+            "expanded_url": "https://twitter.com/TeachingCom/status/966670715272429569/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 618,
+                "h": 348,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "92ee2658b21873fa13ae443107207e47",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "e7a3433d000b4b44257e03ca1abf2d5d": {
+      "created_at": "Wed Feb 21 18:21:19 +0000 2018",
+      "id": "e7a3433d000b4b44257e03ca1abf2d5d",
+      "id_str": "966377308633300997",
+      "full_text": "@CITPrep - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CITPrep",
+            "name": "CITPrep",
+            "id": 1057336285,
+            "id_str": "1057336285",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              71,
+              84
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1057336285,
+      "in_reply_to_user_id_str": "1057336285",
+      "in_reply_to_screen_name": "CITPrep",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "ab97c0f6cb1c7063c6a37dd2b47d9407",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "92e9391265a2ecc6885981db398f3000": {
+      "created_at": "Wed Feb 21 15:23:01 +0000 2018",
+      "id": "92e9391265a2ecc6885981db398f3000",
+      "id_str": "966332437256130560",
+      "full_text": "@MisterCavey - thanks for following. Check out our premium typing platform @EduTypingcom for free classroom activities!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MisterCavey",
+            "name": "MrCavey",
+            "id": 963774992,
+            "id_str": "963774992",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "EduTypingCom",
+            "name": "EduTyping.com",
+            "id": 841854217547468800,
+            "id_str": "841854217547468800",
+            "indices": [
+              75,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 963774992,
+      "in_reply_to_user_id_str": "963774992",
+      "in_reply_to_screen_name": "MisterCavey",
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "3ced083e69d60cc92d2fa46582c65f12",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "86fda3aca935966b9331080336ed7905": {
+      "created_at": "Wed Feb 21 15:16:15 +0000 2018",
+      "id": "86fda3aca935966b9331080336ed7905",
+      "id_str": "966330736797200385",
+      "full_text": "RT @MisterCavey: 10 Reasons to use #IBL and #PBL. @gracelovoo https://t.co/z5DA0dXc8U",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "IBL",
+            "indices": [
+              35,
+              39
+            ]
+          },
+          {
+            "text": "PBL",
+            "indices": [
+              44,
+              48
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MisterCavey",
+            "name": "MrCavey",
+            "id": 963774992,
+            "id_str": "963774992",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "gracelovoo",
+            "name": "Grace Voo",
+            "id": 915986137595785200,
+            "id_str": "915986137595785217",
+            "indices": [
+              50,
+              61
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 966299056023552000,
+            "id_str": "966299056023552000",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+            "url": "https://t.co/z5DA0dXc8U",
+            "display_url": "pic.twitter.com/z5DA0dXc8U",
+            "expanded_url": "https://twitter.com/MisterCavey/status/966299060184350720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 966299060184350700,
+            "source_status_id_str": "966299060184350720",
+            "source_user_id": 963774992,
+            "source_user_id_str": "963774992"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 966299056023552000,
+            "id_str": "966299056023552000",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+            "url": "https://t.co/z5DA0dXc8U",
+            "display_url": "pic.twitter.com/z5DA0dXc8U",
+            "expanded_url": "https://twitter.com/MisterCavey/status/966299060184350720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 966299060184350700,
+            "source_status_id_str": "966299060184350720",
+            "source_user_id": 963774992,
+            "source_user_id_str": "963774992"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Feb 21 13:10:23 +0000 2018",
+        "id": 966299060184350700,
+        "id_str": "966299060184350720",
+        "full_text": "10 Reasons to use #IBL and #PBL. @gracelovoo https://t.co/z5DA0dXc8U",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          44
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "IBL",
+              "indices": [
+                18,
+                22
+              ]
+            },
+            {
+              "text": "PBL",
+              "indices": [
+                27,
+                31
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gracelovoo",
+              "name": "Grace Voo",
+              "id": 915986137595785200,
+              "id_str": "915986137595785217",
+              "indices": [
+                33,
+                44
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 966299056023552000,
+              "id_str": "966299056023552000",
+              "indices": [
+                45,
+                68
+              ],
+              "media_url": "http://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+              "url": "https://t.co/z5DA0dXc8U",
+              "display_url": "pic.twitter.com/z5DA0dXc8U",
+              "expanded_url": "https://twitter.com/MisterCavey/status/966299060184350720/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 966299056023552000,
+              "id_str": "966299056023552000",
+              "indices": [
+                45,
+                68
+              ],
+              "media_url": "http://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DWj73y0UQAADBQ9.jpg",
+              "url": "https://t.co/z5DA0dXc8U",
+              "display_url": "pic.twitter.com/z5DA0dXc8U",
+              "expanded_url": "https://twitter.com/MisterCavey/status/966299060184350720/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 682,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 963774992,
+          "id_str": "963774992",
+          "name": "MrCavey",
+          "screen_name": "MisterCavey",
+          "location": "Burnaby, British Columbia",
+          "description": "#Edtech can fortify learning by helping students 1) access resources, 2) comprehend material, and 3) represent their learning. Big fan of @GoogleforEdu.",
+          "url": "https://t.co/3nKEzlxlqb",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/3nKEzlxlqb",
+                  "expanded_url": "https://mrcavey.wordpress.com/",
+                  "display_url": "mrcavey.wordpress.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 389,
+          "friends_count": 858,
+          "listed_count": 11,
+          "created_at": "Thu Nov 22 07:02:58 +0000 2012",
+          "favourites_count": 904,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1734,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/787007409138966528/WdyV7DfQ_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/787007409138966528/WdyV7DfQ_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/963774992/1503033970",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "a60b9be126fad9cf45580060be8d4ff3",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "68752be5ad22e01ee700a7c56d78d663": {
+      "created_at": "Wed Feb 21 12:29:43 +0000 2018",
+      "id": "68752be5ad22e01ee700a7c56d78d663",
+      "id_str": "966288827580059648",
+      "full_text": "How to Encourage Students to Take Risks https://t.co/bIFIXYg5nC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bIFIXYg5nC",
+            "expanded_url": "http://zpr.io/nXRgQ",
+            "display_url": "zpr.io/nXRgQ",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "46229b19d8754105a747a54fb6ec4ae4",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "c19190ce1c7805c44da7a8a2ab56c8c9": {
+      "created_at": "Wed Feb 21 05:00:40 +0000 2018",
+      "id": "c19190ce1c7805c44da7a8a2ab56c8c9",
+      "id_str": "966175818346049538",
+      "full_text": "5 Ways to Strengthen Early STEM Learning via @techedvocate #STEM #learning #educartion https://t.co/YEZaSnCRgN https://t.co/bbSY65nbM0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "STEM",
+            "indices": [
+              59,
+              64
+            ]
+          },
+          {
+            "text": "learning",
+            "indices": [
+              65,
+              74
+            ]
+          },
+          {
+            "text": "educartion",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "techedvocate",
+            "name": "thetechedvocate",
+            "id": 2841962009,
+            "id_str": "2841962009",
+            "indices": [
+              45,
+              58
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YEZaSnCRgN",
+            "expanded_url": "https://buff.ly/2EfdFzA",
+            "display_url": "buff.ly/2EfdFzA",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 966175816358027300,
+            "id_str": "966175816358027264",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWiLyTSX4AA5VIz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWiLyTSX4AA5VIz.jpg",
+            "url": "https://t.co/bbSY65nbM0",
+            "display_url": "pic.twitter.com/bbSY65nbM0",
+            "expanded_url": "https://twitter.com/TeachingCom/status/966175818346049538/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 900,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 966175816358027300,
+            "id_str": "966175816358027264",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/DWiLyTSX4AA5VIz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DWiLyTSX4AA5VIz.jpg",
+            "url": "https://t.co/bbSY65nbM0",
+            "display_url": "pic.twitter.com/bbSY65nbM0",
+            "expanded_url": "https://twitter.com/TeachingCom/status/966175818346049538/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 900,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3144681178,
+        "id_str": "3144681178",
+        "name": "Teaching.com",
+        "screen_name": "TeachingCom",
+        "location": "",
+        "description": "We build fun & engaging online educational apps, arming more than forty million students and teachers with the tools to succeed in the classroom and beyond.",
+        "url": "https://t.co/7Bkcnt85Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Bkcnt85Ix",
+                "expanded_url": "http://www.teaching.com",
+                "display_url": "teaching.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Tue Apr 07 16:56:49 +0000 2015",
+        "favourites_count": 264,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 731,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907655887925342208/9PQ4DN7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144681178/1505236992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "children": [],
+      "parent": "__SOURCE__",
+      "internal": {
+        "type": "Tweet",
+        "contentDigest": "f0fc1fa77d64519d4951f5aef4bade3f",
+        "owner": "gatsby-source-twitter"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1520012089964,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dfc1c45f06b28ca5ae50aa5565a40d8d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1520012089965,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "672b241a9607efc7cd6b9cded2c07bab",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1520012089966,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "af6111e51037cdafa9692b23d74b32a7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1520012089968,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/colinspence/Sites/Projects/gatsby-twitter-feed/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ad79540cc674876b5e77bd8b3e2d7bc",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "25bcb870f2a43ccb8bf85ec58208e8d7"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "Tweet": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
